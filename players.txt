@@ -1,0 +1,37 @@
+bioID,firstName,lastName,pos,height,weight,college,birthDate
+gasolpa01,Pau,Gasol,F,84,227,none,1980-07-06
+grayaa01,Aaron,Gray,C,84,270,Pittsburgh,1984-12-07
+richach01,Chris,Richard,F,81,255,Florida,1984-12-25
+jamesle01,LeBron,James,F,80,240,none,1984-12-30
+splitti01,Tiago,Splitter Beims,F,83,232,none,1985-01-01
+kleizli01,Linas,Kleiza,F,80,245,Missouri,1985-01-03
+jeffeal01,Al,Jefferson,F,82,256,none,1985-01-04
+brookaa01,Aaron,Brooks,G,72,160,Oregon,1985-01-14
+podkopa01,Pavel,Podkolzin,C,89,260,none,1985-01-15
+gildetr01,Trey,Gilder,F,81,205,Northwestern State,1985-01-24
+lawac01,Acie,Law,G,75,195,Texas A&M,1985-01-25
+gasolma01,Marc,Gasol Saez,C,85,265,none,1985-01-29
+almonmo01,Morris,Almond,G,78,215,Rice,1985-02-02
+lampema01,Maciej,Lampe,F,83,240,none,1985-02-05
+humphkr01,Kris,Humphries,F,81,235,Minnesota,1985-02-06
+gardnth01,Thomas,Gardner,G,77,225,Missouri,1985-02-08
+millspa01,Paul,Millsap,F,80,245,Louisiana Tech,1985-02-10
+giddejr01,Justin,Giddens,G,77,215,New Mexico,1985-02-13
+perovko01,Kosta,Perovic,C,86,240,University Braca Karic,1985-02-19
+forbega01,Gary,Forbes,F,79,220,Massachusetts,1985-02-25
+noahjo01,Joakim,Noah,F-C,83,230,Florida,1985-02-25
+diazgu01,Guillermo,Diaz Gonzalez,G,74,185,Miami (FL),1985-03-04
+kurzro01,Robert,Kurz,F,81,232,Notre Dame,1985-03-05
+butleja01,Jackie,Butler,F-C,82,250,none,1985-03-10
+aldrila01,LaMarcus,Aldridge,F,83,240,Texas,1985-07-19
+taftch01,Christopher,Taft,F,82,260,Pittsburgh,1985-03-10
+brewero02,Ronnie,Brewer,G,79,220,Arkansas,1985-03-20
+ayongu01,Gustavo,Ayon Aguirre,F-C,82,250,UPAEP-Mexico,1985-04-01
+fernaru01,Rudolfo,Fernandez Farres,G-F,78,185,none,1985-04-04
+denglu01,Luol,Deng,G-F,80,220,Duke,1985-04-16
+bassbr01,Brandon,Bass,F,80,240,Louisiana State,1985-04-30
+tuckepj01,Anthony,Tucker,F,77,225,Texas,1985-05-05
+paulch01,Christopher,Paul,G,72,175,Wake Forest,1985-05-06
+haddaha01,Hamed,Haddadi,C,86,254,none,1985-05-19
+aldrico01,Cole,Aldrich,C,83,245,Kansas,1988-10-31
+ramospe01,Peter,Ramos Fuentes,C,87,275,none,1985-05-23
